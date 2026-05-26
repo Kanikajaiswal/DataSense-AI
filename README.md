@@ -1,4 +1,4 @@
-# DataVista AI 🚀
+# DataSense AI 🚀
 
 AI-Powered Business Analytics Dashboard built using React, Tailwind CSS, Node.js, Express, and Recharts.
 
