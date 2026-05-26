@@ -63,20 +63,20 @@ README.md
 
 ## ⚙️ Installation
 
-Clone Repository
+### Clone Repository
 
-git clone https://github.com/YOUR_USERNAME/DataVista-AI.git
+git clone https://github.com/YOUR_USERNAME/DataSense-AI.git
 
 ---
 
-Install Frontend Dependencies
+## 📦 Install Frontend Dependencies
 
 cd client
 npm install
 
 ---
 
-Install Backend Dependencies
+## 📦 Install Backend Dependencies
 
 cd server
 npm install
