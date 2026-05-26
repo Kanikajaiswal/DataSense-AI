@@ -46,7 +46,7 @@ AI-Powered Business Analytics Dashboard built using React, Tailwind CSS, Node.js
 
 ## 📂 Project Structure
 
-DataVista-AI/
+DataSense-AI/
 
 client/
 - src/
@@ -127,7 +127,7 @@ npm start
 
 ## 👨‍💻 Author
 
-Kushagra Kansal
+Kanika Jaiswal
 
 ---
 
