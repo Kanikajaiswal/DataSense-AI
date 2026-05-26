@@ -261,7 +261,7 @@ function App() {
       <div className="flex flex-col items-center gap-6">
 
         <h1 className="text-6xl font-bold text-cyan-400 text-center">
-          DataVista AI
+          DataSense AI
         </h1>
 
         <p className="text-slate-400 text-lg text-center">
